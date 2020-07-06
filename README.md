@@ -1,8 +1,8 @@
 # Flight-Booking
 
-Complete project made by 3 people, this is my part of the project. This site uses AWS, MySQL, Apache and Tomcat. 
+Complete project made by 3 people, this is my part of the project. This site uses AWS, MySQL, and Apache Tomcat. 
 
-This repository only contains ER diagram, SQL schema,  admin functionalities: 
+This repository only contains ER diagram, SQL schema,  admin functionalities:
 Add, Edit and Delete information for a customer representative or customer.
 Obtain a sales report for a particular month.
 Produce a list of reservations by flight number or by customer name.
